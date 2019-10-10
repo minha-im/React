@@ -7,7 +7,7 @@ class FormDefect extends Component {
             <div class="container">
                 <div class="main">
                 <form action="/action_page.php">
-                <h2>DEFECT poda panni</h2>
+                <h2>DEFECT</h2>
                     <table border="0" cellPadding="2">  
                     
                     <tr>
